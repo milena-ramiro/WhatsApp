@@ -6,4 +6,6 @@
 
 ### Sobre o projeto
 
-Projeto feito em Java através do Android Studio apenas para estudo da ferramenta e linguagem.
+* Projeto feito em Java através do Android Studio apenas para estudo da ferramenta e linguagem.
+* Utiliza a plataforma Firebase para o manuseamento de dados. 
+
